@@ -1,1 +1,3 @@
-This is an implementation of basic authentication using spring security. Originally adopted from https://spring.io/guides/gs/securing-web
+This is an implementation of basic authentication using spring security. 
+Originally adopted from https://spring.io/guides/gs/securing-web.
+Uses In-memory user authentication.
